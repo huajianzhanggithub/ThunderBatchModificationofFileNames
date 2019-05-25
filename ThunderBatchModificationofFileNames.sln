@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ThunderBatchModificationofFileNames", "ThunderBatchModificationofFileNames\ThunderBatchModificationofFileNames.pyproj", "{2A94C1E6-B303-49EB-AF5F-1978E4F2331E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A94C1E6-B303-49EB-AF5F-1978E4F2331E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A94C1E6-B303-49EB-AF5F-1978E4F2331E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5922CE68-1D8A-425F-9614-4DD3022BC93F}
+	EndGlobalSection
+EndGlobal
